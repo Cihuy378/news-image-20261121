@@ -117,7 +117,7 @@ def main():
     d.rectangle([0, 104, W, 138], fill=RED)
     d.text((32, 111), "SATURDAY  21  NOVEMBER  2026",
            font=load(SANS_BOLD, 23), fill=(255, 255, 255))
-    d.text((688, 115), "20 STORIES  •  7 REGIONS",
+    d.text((688, 115), "21 STORIES  •  7 REGIONS",
            font=load(SANS_BOLD, 15), fill=(255, 236, 222))
 
     # ---- Row 1: Poland (lead) + COP31 ----------------------------------

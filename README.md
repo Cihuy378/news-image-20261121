@@ -29,7 +29,7 @@ territory.
 **Also today.** Denmark expels a Russian envoy over an alleged
 assassination plot; Britain and the EU seal a reset deal on trade and
 youth mobility; rights groups press for action after the ICJ's Myanmar
-ruling; the Iran war nears its ninth month — plus 12 more briefs from
+ruling; the Iran war nears its ninth month — plus 13 more briefs from
 Shenzhen to Wellington.
 
 ## How the image was made
